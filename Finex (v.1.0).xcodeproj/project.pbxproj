@@ -14,6 +14,7 @@
 		84050A2D26ECD9970077820E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84050A2C26ECD9970077820E /* Assets.xcassets */; };
 		84050A3026ECD9970077820E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84050A2E26ECD9970077820E /* LaunchScreen.storyboard */; };
 		84050A3826ECDC740077820E /* StockTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84050A3726ECDC740077820E /* StockTableViewController.swift */; };
+		843E06D326EFE4C40040E584 /* newStockTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843E06D226EFE4C40040E584 /* newStockTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		84050A2F26ECD9970077820E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84050A3126ECD9970077820E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84050A3726ECDC740077820E /* StockTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockTableViewController.swift; sourceTree = "<group>"; };
+		843E06D226EFE4C40040E584 /* newStockTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newStockTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		84050A1426ECD9950077820E = {
 			isa = PBXGroup;
 			children = (
+				843E06D226EFE4C40040E584 /* newStockTableViewController.swift */,
 				84050A1F26ECD9950077820E /* Finex (v.1.0) */,
 				84050A1E26ECD9950077820E /* Products */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				843E06D326EFE4C40040E584 /* newStockTableViewController.swift in Sources */,
 				84050A3826ECDC740077820E /* StockTableViewController.swift in Sources */,
 				84050A2126ECD9950077820E /* AppDelegate.swift in Sources */,
 				84050A2B26ECD9950077820E /* Finex__v_1_0_.xcdatamodeld in Sources */,
